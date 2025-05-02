@@ -1,10 +1,10 @@
 # Lista Zadań
 
+Lista Zadań to prosta aplikacja do zarządzania zadaniami stworzona w React i Tailwind CSS. Umożliwia użytkownikom dodawanie zadań z terminem wykonania, edytowanie zadań, usuwanie zadań oraz zapisywanie i wczytywanie zadań z pliku JSON.
+
 ## Demo
 
 Możesz wypróbować aplikację na żywo pod tym linkiem: [Lista Zadań Demo na żywo](https://remigiuszgithub.github.io/React-to-do/)
-
-Lista Zadań to prosta aplikacja do zarządzania zadaniami stworzona w React i Tailwind CSS. Umożliwia użytkownikom dodawanie zadań z terminem wykonania, edytowanie zadań, usuwanie zadań oraz zapisywanie i wczytywanie zadań z pliku JSON.
 
 ## Funkcje
 
